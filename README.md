@@ -1,4 +1,4 @@
 Redirection-Shortlinks
 ======================
 
-Create custom shortlinks using the Redirection plugin
+WordPress plugin to create custom shortlinks using the Redirection plugin
